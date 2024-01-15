@@ -1,4 +1,3 @@
-#!/usr/sepp/bin/python3.7
 
 r"""
 Copyright (C) 2024 Analog Devices, Inc., All Rights Reserved.
